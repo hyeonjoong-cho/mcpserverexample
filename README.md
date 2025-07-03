@@ -3,7 +3,7 @@
 To install the 'add_tool' MCP server, run the following commands:
 Add the following installation 
 
-"""json
+'''json
 {
   "mcpServers": {
     "add_tool": {
@@ -16,4 +16,4 @@ Add the following installation
     }
   }
 }
-"""
+'''
